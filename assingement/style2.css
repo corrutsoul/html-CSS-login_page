@@ -1,0 +1,79 @@
+body{
+    display: flex;
+    justify-content: center
+    
+    
+}
+body{
+    background: url(/images/imag2.jpg) no-repeat center;
+    /* background-size: ; */
+    
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid rgb(23, 22, 22);
+    height: 80vh;
+    width: 70vh;
+    border-radius: 12px;
+  
+}
+
+input {
+    border-radius: 25px;
+    padding: 15px 10px; /* optional: makes inputs look better */
+    display: flex;
+    gap: 10px; /* optional spacing between items */
+    margin: 25px;
+}
+input{
+    width: 450px;
+    height: 40px;
+}
+
+#login{
+    font-size: 80px;
+    padding: 6px 10px;
+}
+
+#submit{
+    background-color: rgb(82, 82, 251);
+    font-size: 20px;
+    padding-bottom: 4vh;
+}
+
+#fp{
+    text-decoration: none;
+    font-size: 23px;
+    color: aliceblue;
+    position: relative;
+}
+#fb{
+    font-size: 20px;
+    color: rgb(8, 160, 254);
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.account{
+    border: 3px solid rgb(23, 22, 22);
+    height: 30vh;
+    width: 71vh;
+    border-radius: 9px;
+    position: relative;
+    top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: aliceblue;
+
+}
+.account{
+    font-size: 3vh;
+    
+}
+a{
+    color: blue;
+}
