@@ -1,0 +1,1 @@
+Hello Sagar sir here’s my comment I’ve included all the CSS and HTML code here As I know in present it took me four days to create this simple website Anyone who has my code can recreate it or add a few more lines to make it more aesthetic 
